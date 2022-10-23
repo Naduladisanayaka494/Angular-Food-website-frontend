@@ -40,7 +40,7 @@ export class OrderDetailsService {
       foodImg:"../../assets/img/cakeimg (3).jpg"
     },
     {
-      id:3,
+      id:5,
       foodName:"salad",
       foodDetails:"spanish food",
       foodPrice:200,
